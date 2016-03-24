@@ -60,7 +60,7 @@ Mainly the forks of projects I contributed on
 </div>
 <div>
 <h3>
-<a target="_blank" href="https://fr.linkedin.com/in/marin-gilles-2530a285/en">LinkedIn</a>
+<a target="_blank" href="https://stackexchange.com/users/6895720/marin-gilles?tab=accounts">LinkedIn</a>
 </h3>
 <p>
 My personnal LinkedIn page
@@ -70,14 +70,28 @@ My personnal LinkedIn page
 
 <div style="border-top:1px solid #CCC; padding-top: 20px; margin-top: 20px">
 <div style="width:50px; margin-right:20px; float:left">
-<a target="_blank" href="https://stackoverflow.com/users/5297833/marin-gilles"><img src="{{site.url}}/images/stack-logo.png"></a>
+<a target="_blank" href="https://stackexchange.com/users/6895720/marin-gilles?tab=accounts"><img src="{{site.url}}/images/stack-logo.png"></a>
 </div>
 <div>
 <h3>
-<a target="_blank" href="https://stackoverflow.com/users/5297833/marin-gilles">StackOverflow</a>
+<a target="_blank" href="https://stackexchange.com/users/6895720/marin-gilles?tab=accounts">StackOverflow</a>
 </h3>
 <p>
 My personnal StackOverflow page
+</p>
+<div>
+</div>
+
+<div style="border-top:1px solid #CCC; padding-top: 20px; margin-top: 20px">
+<div style="width:50px; margin-right:20px; float:left">
+<a target="_blank" href="https://twitter.com/mrngilles"><img src="{{site.url}}/images/twitter-logo.png"></a>
+</div>
+<div>
+<h3>
+<a target="_blank" href="https://twitter.com/mrngilles">Twitter</a>
+</h3>
+<p>
+My personnal Twitter page
 </p>
 <div>
 </div>
