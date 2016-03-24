@@ -4,6 +4,7 @@ title: My work in a nutshell
 description: "What I do for a living, what I want to do and why do I write"
 modified: 2016-03-24
 tags: [general]
+
 ---
 
 # Who am I ?
