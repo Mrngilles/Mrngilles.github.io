@@ -15,8 +15,9 @@ owner:
   bio: "Linux lover, python seeker, Open source worshipper"
   email: mrngilles@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter: mrngilles
+  twitter:
   facebook:
+  gitlab: mrngilles
   github: Mrngilles
   stackexchange: https://stackexchange.com/users/6895720/marin-gilles?tab=accounts
   linkedin: marin-gilles-2530a285
