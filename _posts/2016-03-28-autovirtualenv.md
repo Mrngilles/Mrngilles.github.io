@@ -77,8 +77,8 @@ use Pytest-sugar to improve even more the looks of the results).
 I would be lynched if I did not use this library for the project
 documentation. It is the most widely used documentation package in python, and
 is very easy to use. You just have to write .rst files, write properly your
-docstrings, and creating the documentation is as easy as "make html", or "make
-latexpdf", or even "make man", outputting your documentation in the desired
+docstrings, and creating the documentation is as easy as `make html`, or "make
+latexpdf", or even `make man`, outputting your documentation in the desired
 format. The rst format also allows you to write your documentation as ipython
 notebooks and export them. For more information, look at my post on
 [Packtpub](https://www.packtpub.com/books/content/using-jupyter-write-documentation).
