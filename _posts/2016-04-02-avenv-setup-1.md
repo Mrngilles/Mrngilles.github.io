@@ -155,7 +155,7 @@ to need to add elements to it.
 
 Of course, we are not done setting up our environment. We just covered
 what I consider to be standard python project configuration. In the
-[next]() article, we will create our virtual environment for development,
+[next]({% post_url 2016-04-07-avenv-setup-2 %}) article, we will create our virtual environment for development,
 and setup testing with [py.test](http://pytest.org/latest/).
 
 Don't hesitate to [contact]({{ site.url }}/about) me directly if you have any question, want

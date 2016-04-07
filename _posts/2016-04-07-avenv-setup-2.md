@@ -7,7 +7,7 @@ tags: [python,virtualenv,projects,testing]
 
 ---
 
-In the [previous article]({{ post_url }}avenv-setup-1 ), we set up
+In the [previous article]({% post_url 2016-04-02-avenv-setup-1 %}), we set up
 our git repository for the AutoVirutalEnv project, and created the
 package. Today, we will create our development virtual environment, install the
 packages we want, and put our test system up. Let's get started!
