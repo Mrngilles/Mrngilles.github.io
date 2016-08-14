@@ -1,5 +1,5 @@
-title: Marin Gilles' Blog
-description: My personal blog about nothing and everything
+title: The documenter
+description: The documentation of my path to success
 disqus_shortname: mrngilles
 reading_time: true
 words_per_minute: 200
@@ -12,14 +12,14 @@ url: //mrngilles.github.io
 owner:
   name: Marin Gilles
   avatar: profil.jpg
-  bio: "Linux lover, python seeker, Open source worshipper"
+  bio: "Avid learner, Passionate coder, Truth seeker"
   email: mrngilles@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:
+  twitter: mrngilles
   facebook:
   gitlab: mrngilles
   github: Mrngilles
-  stackexchange: https://stackexchange.com/users/6895720/marin-gilles?tab=accounts
+  stackexchange:
   linkedin: marin-gilles-2530a285
   instagram:
   flickr:
