@@ -11,14 +11,14 @@ This is not a blog !
 
 This is a way for you to follow my learnings.
 
-A way for you to learn along me.
+A way for you to learn beside me.
 
 I tried starting a blog before, a few times. And on each attempt, I
 never went further than a few posts, that no one ever read (except
 me).
 
 Of course I would give up after 3 posts! I started for selfish
-reasons, that even I did not fully understand. So I started searching
+reasons, that even I did not fully understand. So I started looking
 around for ways to develop, ways to expand, ways to contribute, ways
 to help. I started reading (and still do) everything I could get my
 hands on, started listening to podcast about successful people,
@@ -45,12 +45,14 @@ So let's get started with what I learned today !
 In order to network the proper way, the first action I have to take is
 to define exaclty what I want from this networking. For now, my goal
 is to learn about the inner workings of Twitter, and get to 100
-followers.
+followers. This goal will evolve with time, but I start by setting a
+small goal (Actually, my first goal was 10 people, but I already
+achieved it, so yay!).
 
 My objective on a longer term will be to associate with my website
 (under development) to help more people learn and grow. Thus, I will
 have to get people from the field I want to work in (developers, new
-and experienced) to follow me.
+and experienced) to follow me. More about my project in a few weeks!
 
 In order to achieve this goal, I will:
 
