@@ -3,7 +3,7 @@ layout: post
 title: My 9 favourite free Twitter tools
 description: "My 9 favourite free Twitter tools"
 modified: 2016-08-15
-tags: [Twitter, Tools, Analytics, LifeDoc]
+tags: [Twitter, Tools, Analytics, LifeDoc, Networking, Social Media]
 
 ---
 

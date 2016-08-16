@@ -3,7 +3,7 @@ layout: post
 title: Influencers on Twitter
 description: "How to get develop a relationship with infuencers on Twitter"
 modified: 2016-08-16
-tags: [Twitter, Social Media, Networking]
+tags: [Twitter, Social Media, Networking, LifeDoc]
 
 ---
 ## Influencers
