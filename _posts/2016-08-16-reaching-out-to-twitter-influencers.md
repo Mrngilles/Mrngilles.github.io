@@ -60,6 +60,6 @@ enough to learn all there is to know about Twitter. However, it will
 give me a good starting point, and momentum to keep growing.
 
 Tomorrow will be about writing good tweets, so come back to see the
-evolution, and I hope get some good tips !
+evolution, and I hope you get some good tips !
 
 Live to learn !
