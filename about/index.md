@@ -5,7 +5,7 @@ image:
   feature: abstract-5.jpg
   credit: mrngilles
 comments: false
-modified: 2016-03-21
+modified: 2016-08-18
 ---
 <div style="width:200px; margin-left:auto; margin-right:auto">
 <img src="{{site.url}}/images/profil.jpg" style="border-radius:100%">
@@ -13,10 +13,8 @@ modified: 2016-03-21
 <center><h1>Marin Gilles</h1></center>
 
 # Who am I?
-I am a Ph.D. Student at Université de bourgogne in France.
-Passionate about Linux, Python, and programming in general,
-I post about what I most recently learned during my work
-or my free time.
+Passionate about personal development, startups, blogging, and
+feedback analysis, I write to show you my path to success.
 
 # Contact me
 
